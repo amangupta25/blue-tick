@@ -3,24 +3,28 @@
 
 "Blue Tick" is a chrome extension which restores authentic blue ticks and distinguishes between actual verified account and paid subscribers.
 
+**If you find this extension helpful, star this project.**
+
 **User 1** - Verified Blue Tick <br>
 **User 2** - Paid ($8) Blue Tick
 
+
+
 ![image info](./assets/img/tweetified_snap.png)
 
+![image info](./assets/img/6.png)
 
-## Development 
+## Instructions
+Steps To Install and Use the Extension:
 
-If you find this extension helpful star this project.
-
-### Available Commands
-
-| Commands | Description |
-| --- | --- |
-| `npm run start` | build extension, watch file changes |
-| `npm run build` | generate release version |
-| `npm run docs` | generate source code docs |
-| `npm run clean` | remove temporary files |
-| `npm run test` | run unit tests |
-| `npm run sync` | update config files |
-
+1. Download the extension from this link: https://github.com/amangupta25/blue-tick/raw/main/blue-tick.zip
+2. Unzip the downloaded file
+3. Navigate to chrome://extensions
+4. At the top right, turn on Developer mode <br><br>
+   ![image info](./assets/img/1.png)
+5. Click Load unpacked and select the unzipped folder
+![image info](./assets/img/2.png)
+![image info](./assets/img/3.png)
+6. Open a new tab and log in to your twitter account:  https://twitter.com/
+7. Turn on the “Blue Tick” extension by clicking on the extension icon
+   ![image info](./assets/img/4.png)
