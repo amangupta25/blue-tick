@@ -1,6 +1,7 @@
-# tweetified
+# Blue Tick
 
-Enable officially verified twitter accounts to have 'Blue Tick' for free and distinguish them from paid ones!
+
+"Blue Tick" is a chrome extension which restores authentic blue ticks and distinguishes between actual verified account and paid subscribers.
 
 **User 1** - Verified Blue Tick <br>
 **User 2** - Paid ($8) Blue Tick
