@@ -1,0 +1,54 @@
+{
+    "name": "tweetified",
+    "description": "Enable officially verified twitter accounts to have 'Blue Tick' for free and distinguish them from paid ones!",
+    "version": "0.0.1",
+    "homepage": "http://chrome.google.com/webstore",
+    "author": "Aman Gupta",
+    "repository": {
+        "type": "git",
+        "url": "ENTER GIT REPO URL"
+    },
+    "scripts": {
+        "start": "xt-build -e dev -w",
+        "start:firefox": "xt-build -e dev -p firefox -w",
+        "build": "xt-build -e prod",
+        "build:firefox": "xt-build -e prod -p firefox",
+        "clean": "xt-clean",
+        "docs": "xt-docs",
+        "test": "xt-test",
+        "coverage": "nyc --reporter=lcov npm run test",
+        "sync": "xt-sync"
+    },
+    "babel": {
+        "presets": [
+            "@babel/preset-env"
+        ]
+    },
+    "eslintIgnore": [
+        "test/**/*"
+    ],
+    "devDependencies": {
+        "extension-cli": "latest"
+    },
+    "xtdocs": {
+        "source": {
+            "include": [
+                "README.md",
+                "src"
+            ]
+        }
+    },
+    "xtbuild": {
+        "js_bundles": [
+            {
+                "name": "background",
+                "src": "./src/**/*.js"
+            }
+        ]
+    },
+    "dependencies": {
+        "browserify": "^17.0.0",
+        "chrome-fs": "^10.0.0",
+        "lunr": "^2.3.9"
+    }
+}

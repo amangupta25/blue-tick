@@ -1,0 +1,5 @@
+# Ignore test folder 
+test
+
+# Ignore VSC Settings
+.settings

@@ -1,0 +1,42 @@
+{
+    "name": "__MSG_appName__",
+    "short_name": "__MSG_appShortName__",
+    "description": "__MSG_appDescription__",
+    "homepage_url": "http://chrome.google.com/webstore",
+    "version": "0.0.1",
+    "version_name": "0.0.1",
+    "manifest_version": 3,
+    "default_locale": "en",
+    "minimum_chrome_version": "88",
+    "permissions": ["scripting", "activeTab", "webNavigation", "storage"],
+    "icons": {
+        "128": "assets/img/twitter-verified-badge.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": {
+            "16": "assets/img/twitter-verified-badge.png",
+            "24": "assets/img/twitter-verified-badge.png",
+            "32": "assets/img/twitter-verified-badge.png"
+        },
+        "default_title": "__MSG_appName__"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": [ "data/*.json", "assets/scripts/turnOn.js", "assets/scripts/turnOff.js" ],
+            "matches": [ "https://twitter.com/*" ]
+        }
+    ],
+    "host_permissions": [
+        "https://twitter.com/*"
+    ],
+    "optional_host_permissions": [
+        "*://*/*"
+    ],
+    "content_scripts": [{
+        "matches": ["https://twitter.com/*"],
+        "js": ["./assets/scripts/content.js"]
+    }]
+}
