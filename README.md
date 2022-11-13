@@ -5,11 +5,6 @@
 
 **If you find this extension helpful, star this project.**
 
-| Type      | Icon |
-| ----------- | ----------- |
-| Verified Blue Tick      | ![image info](./assets/img/twitter-verified-readme.svg)       |
-| Paid ($8) Blue Tick   | ![image info](./assets/img/paid-readme.svg)    |
-
 [comment]: <> (![image info]&#40;./assets/img/tweetified_snap.png&#41;)
 
 ![image info](./assets/img/7.png)
