@@ -18,9 +18,11 @@ Steps To Install and Use the Extension:
 3. Navigate to chrome://extensions
 4. At the top right, turn on Developer mode <br><br>
    ![image info](./assets/img/1.png)
-5. Click Load unpacked and select the unzipped folder
+5. Click Load unpacked and select the unzipped folder<br> <br>
 ![image info](./assets/img/2.png)
 ![image info](./assets/img/3.png)
+<br><br>
 6. Open a new tab and log in to your twitter account:  https://twitter.com/
 7. Turn on the “Blue Tick” extension by clicking on the extension icon
+<br><br>
    ![image info](./assets/img/4.png)
