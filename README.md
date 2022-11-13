@@ -7,8 +7,8 @@
 
 | Type      | Icon |
 | ----------- | ----------- |
-| Verified Blue Tick      | ![image info](/Users/aman.g/Documents/Projects/blue-tick/assets/img/twitter-verified-readme.svg)       |
-| Paid ($8) Blue Tick   | ![image info](/Users/aman.g/Documents/Projects/blue-tick/assets/img/paid-readme.svg)    |
+| Verified Blue Tick      | ![image info](./assets/img/twitter-verified-readme.svg)       |
+| Paid ($8) Blue Tick   | ![image info](./assets/img/paid-readme.svg)    |
 
 [comment]: <> (![image info]&#40;./assets/img/tweetified_snap.png&#41;)
 
