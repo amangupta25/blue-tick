@@ -14,7 +14,7 @@
 ## Instructions
 Steps To Install and Use the Extension:
 
-1. Download the extension from this link: https://github.com/amangupta25/blue-tick/raw/main/blue-tick.zip
+1. Download the extension from this link: http://shorturl.at/hiJZ0
 2. Unzip the downloaded file
 3. Navigate to chrome://extensions
 4. At the top right, turn on Developer mode <br><br>
