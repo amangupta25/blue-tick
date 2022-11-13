@@ -1,6 +1,6 @@
 {
     "name": "blue-tick",
-    "description": "Enable officially verified twitter accounts to have 'Blue Tick' for free and distinguish them from paid ones!",
+    "description": "\"Blue Tick\" is a chrome extension which restores authentic blue ticks and distinguishes between actual verified account and paid subscribers.",
     "version": "0.0.1",
     "homepage": "http://chrome.google.com/webstore",
     "author": "Aman Gupta",
