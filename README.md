@@ -12,6 +12,7 @@
 
 [comment]: <> (![image info]&#40;./assets/img/tweetified_snap.png&#41;)
 
+![image info](./assets/img/7.png)
 ![image info](./assets/img/6.png)
 
 ## Instructions
