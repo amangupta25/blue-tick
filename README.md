@@ -5,12 +5,12 @@
 
 **If you find this extension helpful, star this project.**
 
-**User 1** - Verified Blue Tick <br>
-**User 2** - Paid ($8) Blue Tick
+| Type      | Icon |
+| ----------- | ----------- |
+| Verified Blue Tick      | ![](/Users/aman.g/Documents/Projects/blue-tick/assets/img/twitter-verified-readme.svg)       |
+| Paid ($8) Blue Tick   | ![](/Users/aman.g/Documents/Projects/blue-tick/assets/img/paid-readme.svg)    |
 
-
-
-![image info](./assets/img/tweetified_snap.png)
+[comment]: <> (![image info]&#40;./assets/img/tweetified_snap.png&#41;)
 
 ![image info](./assets/img/6.png)
 
