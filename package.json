@@ -1,7 +1,7 @@
 {
     "name": "blue-tick",
     "description": "\"Blue Tick\" is a chrome extension which restores authentic blue ticks and distinguishes between actual verified account and paid subscribers.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "http://chrome.google.com/webstore",
     "author": "Aman Gupta",
     "repository": {
