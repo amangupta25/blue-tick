@@ -11,7 +11,7 @@
 <br><br>
 ![image info](./assets/img/6.png)
 
-## Instructions
+## Instructions for Chrome/Edge
 Steps To Install and Use the Extension:
 
 1. Download the extension from this link: [Chrome Webstore: Blue Tick](https://chrome.google.com/webstore/detail/blue-tick/olfckcmcobffcnbelnfgbaiinanbmldp)
